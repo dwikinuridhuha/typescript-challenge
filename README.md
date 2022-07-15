@@ -6,4 +6,4 @@ Code Challenge associated with:
 3. Front End
 
 # Days
-1. FizzBuzz OOP And Looping
+1. FizzBuzz OOP
